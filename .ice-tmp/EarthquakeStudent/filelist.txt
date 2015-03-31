@@ -1,0 +1,6 @@
+.ice-tmp/EarthquakeStudent/osx-x86_64-clang++5.1/DEBUG/App.o
+.ice-tmp/EarthquakeStudent/osx-x86_64-clang++5.1/DEBUG/Date.o
+.ice-tmp/EarthquakeStudent/osx-x86_64-clang++5.1/DEBUG/Earth.o
+.ice-tmp/EarthquakeStudent/osx-x86_64-clang++5.1/DEBUG/Earthquake.o
+.ice-tmp/EarthquakeStudent/osx-x86_64-clang++5.1/DEBUG/EarthquakeDatabase.o
+.ice-tmp/EarthquakeStudent/osx-x86_64-clang++5.1/DEBUG/main.o
