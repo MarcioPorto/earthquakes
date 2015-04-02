@@ -143,12 +143,6 @@ void App::onGraphics3D(RenderDevice* rd, Array<shared_ptr<Surface> >& surface3D)
       Draw::sphere(ball, rd, Color3::red(), Color4::clear());
       counter3++;
     }
-    
-    // cout << position;
-    // cout << magnitude << endl;
-    // cout << counter1 << endl;
-    // cout << counter2 << endl;
-    // cout << counter3 << endl;
 
   }
 
