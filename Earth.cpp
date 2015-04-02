@@ -1,3 +1,9 @@
+/*
+  Comp 394-01 S15 
+  Assignment #3 Earthquakes Display
+  Marcio Porto and Charles Park
+*/
+
 #include "Earth.h"
 #include "config.h"
 

@@ -1,3 +1,9 @@
+/*
+  Comp 394-01 S15 
+  Assignment #3 Earthquakes Display
+  Marcio Porto and Charles Park
+*/
+
 #include <ctime>
 #include "Date.h"
 
