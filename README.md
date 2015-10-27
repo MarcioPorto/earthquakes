@@ -10,7 +10,7 @@ Using C++ and G3D, we implemented a three-dimensional Earth, which is textured w
 
 Here is a more detailed description of what we did for each step:
 
-### Convert spherical to Cartesian coordinates
+1 - Convert spherical to Cartesian coordinates
 
 We used the following formula to return the correspondent x, y and z positions given a longitude and latitude as input:
 
@@ -22,7 +22,7 @@ Together, they form our variable called location:
 
 location = Vector3(x position, y position, z position)  
 
-2. Tessellate a sphere
+2 - Tessellate a sphere
 
 We used a nested for loop to tessellate a unit sphere. The first for loop was in charge of the latitude, where it iterated from 0 to pi. The second for loop was in charge of the longitude, where it iterated from 0 to 2pi. Each iteration is divided by the magnitude of the stacks and slices. This would translate into a more precise sphere by calculating more points.
 
