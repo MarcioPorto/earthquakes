@@ -10,7 +10,7 @@ Using C++ and G3D, we implemented a three-dimensional Earth, which is textured w
 
 Here is a more detailed description of what we did for each step:
 
-1. Convert spherical to Cartesian coordinates
+### Convert spherical to Cartesian coordinates
 
 We used the following formula to return the correspondent x, y and z positions given a longitude and latitude as input:
 
